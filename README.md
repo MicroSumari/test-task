@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### How to use
+- On the main page you will have all the information about the whole application. 
+- You can use the search bar for filtering specific result. 
+- Click on the card given to know about the characters details
+- At the bottom you have pagination options. It will allow to navigate through the whole list of characters. 
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
